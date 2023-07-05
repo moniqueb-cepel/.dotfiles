@@ -1,6 +1,6 @@
 [user]
-	email = vanbrandaos@gmail.com
-	name = Vanessa Brandao
+	email = moniquebenevenuto@gmail.com
+	name = Monique Benevenuto
 
 [alias]
 	l = log --relative-date --graph --abbrev-commit -10

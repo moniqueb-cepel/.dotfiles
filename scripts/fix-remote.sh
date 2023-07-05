@@ -12,4 +12,4 @@ trap 'cleanup' EXIT
 
 cd "${0%/*}"/..
 
-git remote set-url origin git@github.com:vanbrandaos/.dotfiles.git
+git remote set-url origin git@github.com:moniqueb-cepel/.dotfiles.git

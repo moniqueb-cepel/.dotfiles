@@ -10,7 +10,7 @@ cleanup() {
 
 trap 'cleanup' EXIT
 
-EMAIL=${1-'vanbrandaos@gmail.com'}
+EMAIL=${1-'moniquebenevenuto@gmail.com'}
 SERVICE_NAME=${2-github}
 DOMAIN=".com"
 
